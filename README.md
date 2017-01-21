@@ -1,0 +1,2 @@
+# testUpdateNews
+アップデートテスト用
